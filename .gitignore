@@ -1,3 +1,7 @@
 .idea
 *.iml
 /out
+.iws
+.ipr
+target
+.DS_STORE /src/main/resources/log
